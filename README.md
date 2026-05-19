@@ -1,0 +1,2 @@
+# mydz
+dzinfo
